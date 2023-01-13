@@ -3,7 +3,7 @@
 ### Install Java 17
     sudo apt install openjdk-17-jre-headless -y
 
-### Download Neo4j Enterprise (For now Version 5.0.3)
+### Download Neo4j Enterprise (For now Version 5.3.0)
     wget https://neo4j.com/artifact.php?name=neo4j-enterprise-5.3.0-unix.tar.gz -O neo4j-enterprise-5.3.0-unix.tar.gz
 
 ### Un-tar Neo4j Packages
