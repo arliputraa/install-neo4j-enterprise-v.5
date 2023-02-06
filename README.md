@@ -1,5 +1,8 @@
 # Install Neo4j Enterprise Edition v.5 in Ubuntu and Conf
 
+        sudo apt-get update
+        sudo apt-get upgrade
+
 ### Install Java 17
     sudo apt install openjdk-17-jre-headless -y
 
